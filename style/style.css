@@ -57,7 +57,7 @@ a.link1:link, a.link1:visited{
 }
 
 .search-button{
-    background-image: url('/resources/search.png');
+    background-image: url('/CloneTube/resources/search.png');
     background-repeat: no-repeat;
     background-position: right center;
 }
@@ -90,7 +90,7 @@ a.link1:link, a.link1:visited{
 }
 
 .image-sign-in{
-    background-image: url('/resources/sign-in.png');
+    background-image: url('/CloneTube/resources/sign-in.png');
     background-position: 15px center;
     background-repeat: no-repeat;
 }
